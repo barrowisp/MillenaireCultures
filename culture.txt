@@ -1,0 +1,63 @@
+
+// example: -
+qualifierSeparator= 
+// example: calva
+icon=calva
+// example: sapling_appletree
+knownCrop=
+
+travelBookVillagerCategory=villager
+// optional:
+// travelBookVillagerCategory=lonevillager
+travelBookVillagerCategory=visitor
+travelBookVillagerCategory=leader
+// optional:
+// travelBookVillagerCategory=marvelvillager
+
+travelBookBuildingCategory=townhall
+travelBookBuildingCategory=house
+travelBookBuildingCategory=othervillage
+// optional:
+// travelBookBuildingCategory=lonebuilding
+travelBookBuildingCategory=playerbuilding
+// optional:
+// travelBookBuildingCategory=marvel
+
+travelbookTradeGoodCategory=construction
+travelbookTradeGoodCategory=agriculture
+travelbookTradeGoodCategory=crafting
+travelbookTradeGoodCategory=tools
+travelbookTradeGoodCategory=weapons
+travelbookTradeGoodCategory=playeritem
+travelbookTradeGoodCategory=foreigntrade
+
+// category, then comma, then filename of image to use as icon
+// example: villager,normanshovel
+travelBookCategoryIcon=villager,
+travelBookCategoryIcon=visitor,
+travelBookCategoryIcon=leader,
+// optional:
+// travelBookCategoryIcon=lonevillager,
+// optional:
+// travelBookCategoryIcon=marvelvillager,
+
+// category, then comma, then filename of image to use as icon
+// example: townhall,stonebrick
+travelBookCategoryIcon=townhall,
+travelBookCategoryIcon=house,
+travelBookCategoryIcon=othervillage,
+// optional:
+// travelBookCategoryIcon=lonebuilding,
+travelBookCategoryIcon=playerbuilding,
+// optional:
+// travelBookCategoryIcon=marvel,
+
+// category, then comma, then filename of image to use as icon
+// example: construction,timberframecross
+travelBookCategoryIcon=construction,
+travelBookCategoryIcon=agriculture,
+travelBookCategoryIcon=crafting,
+travelBookCategoryIcon=tools,
+travelBookCategoryIcon=weapons,
+travelBookCategoryIcon=playeritem,
+travelBookCategoryIcon=foreigntrade,
