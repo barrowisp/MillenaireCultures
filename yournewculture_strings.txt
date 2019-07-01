@@ -1,0 +1,58 @@
+// to the left of the = is the exact filename
+// to the right of = is how you'd like the title to display in-game
+
+culture.<yournewculture>=<yournewculture>'s adjective
+// examples: Chinese, Russian, Soviet
+culture.fullname=<yournewculture>
+// examples: China, Russia, Union of Soviet Socialist Republics
+
+// Villages
+village.agriculture=agricultural village
+village.autonomy=autonomous village
+village.control=controlled village
+village.custom=custom controlled village
+village.militia=military village
+village.religion=religious village
+
+// Villagers
+villager.boy=Child
+villager.cattlefarmer_m=Cowherd
+villager.cattlefarmer_f=Cowherdess
+villager.chickenfarmer_m=
+villager.chickenfarmer_f=
+villager.farmer_m=Farmer
+villager.farmer_f=Farmer
+villager.girl=Child
+villager.lumberman=Lumberjack
+villager.merchant=Merchant
+villager.miner=Miner
+villager.pigfarmer_m=Swineherd
+villager.pigfarmer_f=Swineherdess
+villager.sheepfarmer_m=Shepherd
+villager.sheepfarmer_f=Shepherdess
+villager.smith=Smith
+villager.teenagerfemale=Youth
+villager.teenagermale=Youth
+
+shop.alchemyworkshop=Alchemical Products
+shop.armoury=Armours & weapons
+shop.bakery=Bread
+shop.cattlefarm=Bovine products
+shop.forge=Tools
+shop.loneabbey=Products of the Abbey
+shop.loneinn=Food and Drinks
+shop.lonelumberman=Wood and apples
+shop.lonelumbermantaiga=Wood
+shop.lonemill=Bread
+shop.lonemine=Stone
+shop.loneorchard=Cider and Apples
+shop.orchard=Cider Apples
+shop.pigfarm=Porcine products
+shop.sheepchickenfarm=Poultry
+shop.tavern=Alcohol
+shop.townhall=Central Store
+shop.notredame=Warehouse
+shop.glassblower=Stained Glass
+shop.glassblower=Bottles
+shop.weaver=Carpets
+shop.weaver=Cloth
