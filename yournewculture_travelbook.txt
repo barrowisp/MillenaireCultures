@@ -1,0 +1,48 @@
+// Here's your chance to explain what makes this culture special
+
+// Culture intro
+travelbook.culture.desc=
+
+// Villager descriptions
+travelbook.villager.boy.desc=
+travelbook.villager.cattlefarmer_f.desc=
+travelbook.villager.cattlefarmer_m.desc=
+travelbook.villager.chickenfarmer_f.desc=
+travelbook.villager.chickenfarmer_m.desc=
+travelbook.villager.farmer_f.desc=
+travelbook.villager.farmer_m.desc=
+travelbook.villager.girl.desc=
+travelbook.villager.lumberjack.desc=
+travelbook.villager.merchant.desc=
+travelbook.villager.miner.desc=
+travelbook.villager.pigfarmer_f.desc=
+travelbook.villager.pigfarmer_m.desc=
+travelbook.villager.sheepfarmer_f.desc=
+travelbook.villager.sheepfarmer_m.desc=
+travelbook.villager.smith.desc=
+travelbook.villager.teenager_f.desc=
+travelbook.villager.teenager_m.desc=
+
+// Village descriptions
+travelbook.village.agriculture.desc=
+travelbook.village.autonomy.desc=An unnaturally self-sufficient village, never found in the wild.
+travelbook.village.control.desc=A village owned by a player who has earned the trust of the <yournewculture>'s-adjective people.
+travelbook.village.custom.desc=A village owned by a player who has earned the trust of the <yournewculture>'s-adjective people, but with greater control over it.
+travelbook.village.militia.desc=
+travelbook.village.religion.desc=
+
+// Building descriptions
+travelbook.building.abandonedmine.desc=
+travelbook.building.cattlefarm.desc=
+travelbook.building.chickenfarm.desc=
+travelbook.building.farm.desc=
+travelbook.building.forge.desc=
+travelbook.building.fort.desc=
+travelbook.building.fountain.desc=
+travelbook.building.grove.desc=
+travelbook.building.guesthouse.desc=
+travelbook.building.manor.desc=
+travelbook.building.market.desc=
+travelbook.building.pigfarm.desc=
+travelbook.building.quarry.desc=
+travelbook.building.sheepfarm.desc=
